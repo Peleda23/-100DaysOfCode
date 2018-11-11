@@ -12,4 +12,9 @@ Started third atempt to do chalenge. This time try to finish. To more prepare to
 
 I took a chalenge on www.frontendmentor.io to do a landing page. Made mobile version today. Used mainly sass and flex box no javascript. Now gona watch few videos about javascript.
 
+###R1D3
+
+Try to work today on my landing page project. Work didnt go smooth. And strated to work on my javascript skills. Downloaded some videos from frontendmasters about javascript.
+Sunday hard to code today. 
+
 
