@@ -17,4 +17,8 @@ I took a chalenge on www.frontendmentor.io to do a landing page. Made mobile ver
 Try to work today on my landing page project. Work didnt go smooth. And strated to work on my javascript skills. Downloaded some videos from frontendmasters about javascript.
 Sunday hard to code today. 
 
+###R1D4
+
+Today worked on landing page project. Started work on mobile version. Used flex box on mobile version. Didint work alot today. But still did some work.
+
 
