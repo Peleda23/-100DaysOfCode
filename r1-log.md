@@ -1,24 +1,28 @@
 # #100DaysOfCode Log - Round 1 - [T.Murinas]
 
-The log of my #100DaysOfCode challenge. Started on [November 0, Friday, 2018].
+The log of my #100DaysOfCode challenge. Started on [November 8, Friday, 2018].
 
 ## Log
 
 ### R1D1 
 
-Started third atempt to do chalenge. This time try to finish. To more prepare to change a work to developers. Main goals learn as mush as posible JavaScript, css, sass, html, terminal, git and musch more. Now I am working on frontendentor html and css projects and on my javascript skills. 
+Started third attempt to do challenge. This time try to finish. To more prepare to change a work to developers. Main goals learn as mush as possible JavaScript, css, sass, html, terminal, git and much more. Now I am working on (<https://www.frontendmentor.io)> html and css projects and on my javascript skills. 
 
 ### R1D2
 
-I took a chalenge on www.frontendmentor.io to do a landing page. Made mobile version today. Used mainly sass and flex box no javascript. Now gona watch few videos about javascript.
+I took a challenge on (<https://www.frontendmentor.io)> to do a landing page. Made mobile version today. Used mainly sass and flex box no javascript. Now gonna watch few videos about javascript.
 
-###R1D3
+### R1D3
 
-Try to work today on my landing page project. Work didnt go smooth. And strated to work on my javascript skills. Downloaded some videos from frontendmasters about javascript.
+Try to work today on my landing page project. Work didn't go smooth. And started to work on my javascript skills. Downloaded some videos from frontendmasters about javascript.
 Sunday hard to code today. 
 
-###R1D4
+### R1D4
 
-Today worked on landing page project. Started work on mobile version. Used flex box on mobile version. Didint work alot today. But still did some work.
+Today worked on landing page project. Started work on mobile version. Used flex box on mobile version. Didn't work a lot today. But still did some work.
+
+### R1D5
+
+Todays work was to finish landing page. Work is done. Had some problem with svg picture. But manage to find answer and fix it. Now I now new property like background-size. With it help I made sizes for svg and svg didn't repeated anymore. 
 
 
