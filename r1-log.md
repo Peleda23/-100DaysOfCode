@@ -25,4 +25,8 @@ Today worked on landing page project. Started work on mobile version. Used flex 
 
 Todays work was to finish landing page. Work is done. Had some problem with svg picture. But manage to find answer and fix it. Now I now new property like background-size. With it help I made sizes for svg and svg didn't repeated anymore. 
 
+### R1D6
+
+Didn't code for couple days because of birthday. Done some coding today but not much. Added html to page structure.
+
 
