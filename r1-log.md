@@ -19,7 +19,7 @@ Sunday hard to code today.
 
 ### R1D4
 
-Today worked on landing page project. Started work on mobile version. Used flex box on mobile version. Didn't work a lot today. But still did some work.
+Today worked on landing page project. Started work on mobile version. Used flex box on mobile version. Didn'ß work a lot today. But still did some work.
 
 ### R1D5
 
@@ -28,5 +28,9 @@ Todays work was to finish landing page. Work is done. Had some problem with svg 
 ### R1D6
 
 Didn't code for couple days because of birthday. Done some coding today but not much. Added html to page structure.
+
+### R1D7
+
+Worked on page project, started adding some styes. And did some freecodecamp exercisesß.
 
 
