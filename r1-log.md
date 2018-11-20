@@ -31,6 +31,12 @@ Didn't code for couple days because of birthday. Done some coding today but not 
 
 ### R1D7
 
-Worked on page project, started adding some styes. And did some freecodecamp exercisesß.
+Worked on page project, started adding some styes. And did some freecodecamp exercises.
+
+### R1D8 
+
+Today did some more styling on web page challenge. Still working on desktop version last section left to do and when gonna start work on mobile version. In the evening did some javascript exercises on www.freecodecamp.org. Is my third attempt to finis javascript challenges. Javascript some times is hard to understand. On fCC i found some exercises for sass try to do them tomorrow. This log book is good to improve my writing english skills.
+
+
 
 
