@@ -37,6 +37,10 @@ Worked on page project, started adding some styes. And did some freecodecamp exe
 
 Today did some more styling on web page challenge. Still working on desktop version last section left to do and when gonna start work on mobile version. In the evening did some javascript exercises on www.freecodecamp.org. Is my third attempt to finis javascript challenges. Javascript some times is hard to understand. On fCC i found some exercises for sass try to do them tomorrow. This log book is good to improve my writing english skills.
 
+### R1D9 
+
+In the morning did some html and css (sass). Worked on the same web page challenge. In the evening did some sass challenges on FCC. Didn't done a lot. Some times is hard to find some motivation and be concentrated on my goal. I think i need to read some motivational story's to get again in shape.
+
 
 
 
