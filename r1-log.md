@@ -41,6 +41,9 @@ Today did some more styling on web page challenge. Still working on desktop vers
 
 In the morning did some html and css (sass). Worked on the same web page challenge. In the evening did some sass challenges on FCC. Didn't done a lot. Some times is hard to find some motivation and be concentrated on my goal. I think i need to read some motivational story's to get again in shape.
 
+### R1D10 
+
+Did some html an sass in the morning. Worked on landing page project. Used flexbox property for mobile version. Hope to do some more tomorrow. Tomorrow friday friday.  
 
 
 
