@@ -45,5 +45,9 @@ In the morning did some html and css (sass). Worked on the same web page challen
 
 Did some html an sass in the morning. Worked on landing page project. Used flexbox property for mobile version. Hope to do some more tomorrow. Tomorrow friday friday.  
 
+### R1D11
+
+Hi, i didn't code for couple days. Some times i need more motivation to keep going. This morning i done some FCC exercises. Same done and in the evening. And started another html challenge. In future try to keep learning more javascript. JavaScript is still new world for me. World witch need to conquer.
+
 
 
