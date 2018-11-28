@@ -49,5 +49,13 @@ Did some html an sass in the morning. Worked on landing page project. Used flexb
 
 Hi, i didn't code for couple days. Some times i need more motivation to keep going. This morning i done some FCC exercises. Same done and in the evening. And started another html challenge. In future try to keep learning more javascript. JavaScript is still new world for me. World witch need to conquer.
 
+### R1D12
+
+Did some FCC exercises and started again udemy js bootcamp. Star everything form start again.
+
+### R1D13 
+
+Done few videos on udemy about javascript. Star from basic.
+
 
 
