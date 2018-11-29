@@ -57,5 +57,9 @@ Did some FCC exercises and started again udemy js bootcamp. Star everything form
 
 Done few videos on udemy about javascript. Star from basic.
 
+### R1D14
+
+Today try to learn more about git and Github. Try to fix my terminla. did some fuck up :D.
+
 
 
