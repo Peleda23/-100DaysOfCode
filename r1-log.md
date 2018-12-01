@@ -61,5 +61,10 @@ Done few videos on udemy about javascript. Star from basic.
 
 Today try to learn more about git and Github. Try to fix my terminla. did some fuck up :D.
 
+### R1D15
+
+Try to understand what is next.js. Very interesting framework. Thinking to learn next after javaScript. Try to understand more git commands.
+
+
 
 
