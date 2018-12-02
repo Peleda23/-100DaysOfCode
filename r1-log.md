@@ -65,6 +65,10 @@ Today try to learn more about git and Github. Try to fix my terminla. did some f
 
 Try to understand what is next.js. Very interesting framework. Thinking to learn next after javaScript. Try to understand more git commands.
 
+### R1D16 
+
+Practice more git. Try to use more git commands in the terminal. Watched more videos about basic of javascript. Like arguments, functions, scopes, template strings. 
+
 
 
 
