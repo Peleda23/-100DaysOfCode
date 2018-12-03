@@ -73,6 +73,9 @@ Practice more git. Try to use more git commands in the terminal. Watched more vi
 
 Working on Udemy Modern JS BootCamp. For this morning done some basics of functions, objects and template strings. Committed everything to gitHub with terminal commands. Thinking to do more after work.
 
+### R1D18
+
+Today was productive day. Everything about javascript. Objects, strings, functions. I need to do at least 5% of the course to finish till december. Thats the plan for december. Make my javascript skills, git, sass up up up. 
 
 
 
