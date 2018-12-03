@@ -69,6 +69,10 @@ Try to understand what is next.js. Very interesting framework. Thinking to learn
 
 Practice more git. Try to use more git commands in the terminal. Watched more videos about basic of javascript. Like arguments, functions, scopes, template strings. 
 
+### R1D17
+
+Working on Udemy Modern JS BootCamp. For this morning done some basics of functions, objects and template strings. Committed everything to gitHub with terminal commands. Thinking to do more after work.
+
 
 
 
