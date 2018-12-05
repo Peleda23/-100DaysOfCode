@@ -81,5 +81,9 @@ Today was productive day. Everything about javascript. Objects, strings, functio
 
 Recently i created a plan how to finish udemy courses in December. My plan is to at least 5% a day. This is gonna be hard. Someday 5% is a lot. Started to work with arrays. Now we building note and todo apps.
 
+### R1D20
+
+Today again javascript watching tutorials in the morning and in the day time read book up and go. 
+
 
 
