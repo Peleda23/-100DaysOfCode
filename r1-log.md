@@ -75,7 +75,11 @@ Working on Udemy Modern JS BootCamp. For this morning done some basics of functi
 
 ### R1D18
 
-Today was productive day. Everything about javascript. Objects, strings, functions. I need to do at least 5% of the course to finish till december. Thats the plan for december. Make my javascript skills, git, sass up up up. 
+Today was productive day. Everything about javascript. Objects, strings, functions. I need to do at least 5% of the course to finish till december. Thats the plan for december. Make my javascript skills, git, sass up up up.
+
+### R1D19
+
+Recently i created a plan how to finish udemy courses in December. My plan is to at least 5% a day. This is gonna be hard. Someday 5% is a lot. Started to work with arrays. Now we building note and todo apps.
 
 
 
