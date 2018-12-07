@@ -83,7 +83,11 @@ Recently i created a plan how to finish udemy courses in December. My plan is to
 
 ### R1D20
 
-Today again javascript watching tutorials in the morning and in the day time read book up and go. 
+Today again javascript watching tutorials in the morning and in the day time read book up and go javascript. 
+
+### R1D21
+
+Done some exercise on www.github.com. And read little bit about js. Manage to fix my email address to make count git commits.
 
 
 
