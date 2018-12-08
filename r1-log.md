@@ -89,5 +89,9 @@ Today again javascript watching tutorials in the morning and in the day time rea
 
 Done some exercise on www.github.com. And read little bit about js. Manage to fix my email address to make count git commits.
 
+### R1D22
+
+Today worked on udemy modern js bootcamp. Added find and sort array functions to my todo and note apps. Started expensive tracker exercise. 
+
 
 
