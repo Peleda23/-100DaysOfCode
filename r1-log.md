@@ -93,5 +93,13 @@ Done some exercise on www.github.com. And read little bit about js. Manage to fi
 
 Today worked on udemy modern js bootcamp. Added find and sort array functions to my todo and note apps. Started expensive tracker exercise. 
 
+### R1D23
+
+Didn't do much. Done some javascript on udemy.
+
+### R1D24
+
+Still working on udemy. Started work javascript with html.
+
 
 
