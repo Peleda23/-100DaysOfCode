@@ -101,5 +101,9 @@ Didn't do much. Done some javascript on udemy.
 
 Still working on udemy. Started work javascript with html.
 
+### R1D25-26
+
+Doing udemy course. Still very tricky. Difficult to understand everything. Hopping to catch all knowledge. Find FreeCodeCamp youtube course about javaScript. On free time gonna watch it. 
+
 
 
