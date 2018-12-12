@@ -105,5 +105,9 @@ Still working on udemy. Started work javascript with html.
 
 Doing udemy course. Still very tricky. Difficult to understand everything. Hopping to catch all knowledge. Find FreeCodeCamp youtube course about javaScript. On free time gonna watch it. 
 
+### R1D27
+
+Working with dom. Adding event listiners to the page content.
+
 
 
