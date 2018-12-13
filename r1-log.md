@@ -109,5 +109,9 @@ Doing udemy course. Still very tricky. Difficult to understand everything. Hoppi
 
 Working with dom. Adding event listiners to the page content.
 
+### R1D28
+
+Added form to the page. Manage to connect submit button.
+
 
 
