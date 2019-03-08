@@ -2,9 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [March 8, Friday, 2019].
 
-## Log
+# Log
 
-### R1D1 
+## R1D1 
+
+Back again to this challenge. Working on freeCodeCamp.
+
+
 
 
 
