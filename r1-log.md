@@ -1,23 +1,76 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 8, 2019 
+## Day 1: March 8, 2019(R1D1)
 
+**Today's Progress**: Started again freecodecamp. Restarted all my progress and begin from new.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:**: Working with basic html and css.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: www.freeCodeCamp.org 
 
-**Link to work:** [Calculator App](http://www.example.com)
+## Day 2: March 9, 2019 (R1D2)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: More css and html basics.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: Repeating old stuff. For now everything is easy.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: www.freeCodeCamp.org
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+## Day 2: March 9, 2019 (R1D2)
 
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Day 2: March 9, 2019 (R1D2)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
 
 
 
