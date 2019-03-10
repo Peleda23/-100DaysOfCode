@@ -2,9 +2,9 @@
 
 ## Main goal of this challenge
 
-    * To code every day.
-    * To learn new stuff.
-    * To improve my english writing skill.
+* To code every day.
+* To learn new stuff.
+* To improve my english writing skill.
 
 ## Day 1: March 8, 2019(R1D1)
 
