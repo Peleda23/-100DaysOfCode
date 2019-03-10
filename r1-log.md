@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Main goal of this challenge
+
+    * To code every day.
+    * To learn new stuff.
+    * To improve my english writing skill.
+
 ## Day 1: March 8, 2019(R1D1)
 
 **Today's Progress**: Started again freecodecamp. Restarted all my progress and begin from new.
@@ -16,13 +22,13 @@
 
 **Link(s) to work**: www.freeCodeCamp.org
 
-## Day 2: March 9, 2019 (R1D2)
+## Day 3: March 10, 2019 (R1D3)
 
-**Today's Progress**:
+**Today's Progress**: Finished Applied Visual Design and Applied Accessibility challenges.
 
-**Thoughts**:
+**Thoughts**: Quick go through challenges nothing tricky. Want to finish as quick as possible and star projects.
 
-**Link(s) to work**:
+**Link(s) to work**: www.freeCodeCamp.org
 
 ## Day 2: March 9, 2019 (R1D2)
 
