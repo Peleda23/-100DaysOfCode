@@ -24,9 +24,9 @@
 
 ## Day 3: March 10, 2019 (R1D3)
 
-**Today's Progress**: Finished Applied Visual Design and Applied Accessibility challenges.
+**Today's Progress**: Finished Applied Visual Design, Applied Accessibility, Responsive Web Design Principles and CSS Flexbox challenges on freeCodeCamp.
 
-**Thoughts**: Quick go through challenges nothing tricky. Want to finish as quick as possible and star projects.
+**Thoughts**: Quick go through challenges nothing tricky.  Want to finish as quick as possible and star projects.
 
 **Link(s) to work**: www.freeCodeCamp.org
 
