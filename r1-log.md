@@ -30,13 +30,13 @@
 
 **Link(s) to work**: www.freeCodeCamp.org
 
-## Day 2: March 9, 2019 (R1D2)
+## Day 4: March 11, 2019 (R1D4)
 
-**Today's Progress**:
+**Today's Progress**: Finished css-grid challenges and done one Responsive Web Design Projects - Tribute page.
 
-**Thoughts**:
+**Thoughts**: Css grid wasn't hard everything i know jus need to repeat one more time to remember. Tribute page was little bit tricker. Coding is hard if not coding every day. You can forget quick. Need to google stuff to remember. 
 
-**Link(s) to work**:
+**Link(s) to work**: www.freeCodeCamp.org 
 
 ## Day 2: March 9, 2019 (R1D2)
 
