@@ -38,13 +38,13 @@
 
 **Link(s) to work**: www.freeCodeCamp.org 
 
-## Day 2: March 9, 2019 (R1D2)
+## Day 5: March 12, 2019 (R1D5)
 
-**Today's Progress**:
+**Today's Progress**: Started working on portfolio website.
 
-**Thoughts**:
+**Thoughts**: Still looking for design. Looking for right vision how website has to look. Looking for inspiration.
 
-**Link(s) to work**:
+**Link(s) to work**: No link yet.
 
 ## Day 2: March 9, 2019 (R1D2)
 
