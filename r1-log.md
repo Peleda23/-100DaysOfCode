@@ -12,7 +12,7 @@
 
 **Thoughts:**: Working with basic html and css.
 
-**Link(s) to work**: www.freeCodeCamp.org 
+**Link(s)**: www.freeCodeCamp.org 
 
 ## Day 2: March 9, 2019 (R1D2)
 
@@ -20,7 +20,7 @@
 
 **Thoughts**: Repeating old stuff. For now everything is easy.
 
-**Link(s) to work**: www.freeCodeCamp.org
+**Link(s)**: www.freeCodeCamp.org
 
 ## Day 3: March 10, 2019 (R1D3)
 
@@ -28,7 +28,7 @@
 
 **Thoughts**: Quick go through challenges nothing tricky.  Want to finish as quick as possible and star projects.
 
-**Link(s) to work**: www.freeCodeCamp.org
+**Link(s)**: www.freeCodeCamp.org
 
 ## Day 4: March 11, 2019 (R1D4)
 
@@ -36,7 +36,7 @@
 
 **Thoughts**: Css grid wasn't hard everything i know jus need to repeat one more time to remember. Tribute page was little bit tricker. Coding is hard if not coding every day. You can forget quick. Need to google stuff to remember. 
 
-**Link(s) to work**: www.freeCodeCamp.org 
+**Link(s)**: www.freeCodeCamp.org 
 
 ## Day 5: March 12, 2019 (R1D5)
 
@@ -44,39 +44,39 @@
 
 **Thoughts**: Still looking for design. Looking for right vision how website has to look. Looking for inspiration.
 
-**Link(s) to work**: No link yet.
+**Link(s)**: No link yet.
 
-## Day 2: March 9, 2019 (R1D2)
+## Day 6: March 13, 2019 (R1D5)
 
-**Today's Progress**:
+**Today's Progress**: Did some stuff on portfolio website and worked on fcc Basic JavaScript challenges.
 
-**Thoughts**:
+**Thoughts**: Didn't do a lot on my website still looking for inspiration. No rush on this project want to do right. Javascript challenges going well. Today started to use pomodoro technique. Try to concentrate for some amount of time with no distractions. And find nice app for remember stuff. Its like you write a question on one side of the card and you writ answer on another side. And the keep mixing cards and showing to me. I think this will  help me to boost my memory.
 
-**Link(s) to work**:
+**Link(s)**: <https://apps.ankiweb.net/>(Link for the app).
 
-## Day 2: March 9, 2019 (R1D2)
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**:
-
-## Day 2: March 9, 2019 (R1D2)
+## Day 7: March 14, 2019 (R1D6)
 
 **Today's Progress**:
 
 **Thoughts**:
 
-**Link(s) to work**:
+**Link(s)**:
 
-## Day 2: March 9, 2019 (R1D2)
+## Day 7: March 15, 2019 (R1D7)
 
 **Today's Progress**:
 
 **Thoughts**:
 
-**Link(s) to work**:
+**Link(s)**:
+
+## Day 8: March 16, 2019 (R1D8)
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
 
 
 
