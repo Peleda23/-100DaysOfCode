@@ -46,7 +46,7 @@
 
 **Link(s)**: No link yet.
 
-## Day 6: March 13, 2019 (R1D5)
+## Day 6: March 13, 2019 (R1D6)
 
 **Today's Progress**: Did some stuff on portfolio website and worked on fcc Basic JavaScript challenges.
 
@@ -54,13 +54,13 @@
 
 **Link(s)**: <https://apps.ankiweb.net/>(Link for the app).
 
-## Day 7: March 14, 2019 (R1D6)
+## Day 7: March 14, 2019 (R1D7)
 
-**Today's Progress**:
+**Today's Progress**: FreeCodeCamp basic JavaScript challenges and little bit work on portfolio website.
 
-**Thoughts**:
+**Thoughts**:   Going through javascript challenges like pro. For now everything is ok nothing hard. Maybe because I did them many times :D. Done some work on portfolio project. Now I know how site is going to look. Just need to be not lazy and finish it.
 
-**Link(s)**:
+**Link(s)**: www.freeCodeCamp.com
 
 ## Day 7: March 15, 2019 (R1D7)
 
