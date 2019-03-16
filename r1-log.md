@@ -62,13 +62,13 @@
 
 **Link(s)**: www.freeCodeCamp.com
 
-## Day 7: March 15, 2019 (R1D7)
+## Day 8: March 15, 2019 (R1D8)
 
-**Today's Progress**:
+**Today's Progress**: Done few challenges on FCC and done some work with portfolio website.
 
-**Thoughts**:
+**Thoughts**: Didn't work yesterday a lot, because my little daughter wasn't happy all day and night. Didn't had much free time :D.
 
-**Link(s)**:
+**Link(s)**: www.freeCodeCamp.org
 
 ## Day 8: March 16, 2019 (R1D8)
 
