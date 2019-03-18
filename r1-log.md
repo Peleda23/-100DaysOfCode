@@ -70,15 +70,19 @@
 
 **Link(s)**: www.freeCodeCamp.org
 
-## Day 8: March 16, 2019 (R1D8)
+## Day 9: March 16, 2019 (R1D9)
 
-**Today's Progress**:
+**Today's Progress**: Mostly on portfolio project today.
 
-**Thoughts**:
+**Thoughts**: Getting icons and layout in the place. Adding some more styles. Still looking for the right look. Want to make this project right.
 
-**Link(s)**:
+**Link(s)**: No link yet.
 
+## Day 10: March 18, 2019 (R1D10)
 
+**Today's Progress**: Doing FCC challenges.
 
+**Thoughts**: Done Basic JavaScript challenges on FCC and started ES6 section. I need to fix one thing in my head the I face problem don't give up and don't look for solution to fast.
 
+**Link(s)**: www.freeCodeCamp.org
 
