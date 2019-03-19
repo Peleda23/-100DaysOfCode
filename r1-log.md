@@ -86,3 +86,10 @@
 
 **Link(s)**: www.freeCodeCamp.org
 
+## Day 11: March 19, 2019 (R1D11)
+
+**Today's Progress**: Working on freeCodeCamp es6 JavaScript challenges.
+
+**Thoughts**: A bit difficult to find more time to study. My newborn give me some more challenges to do. Trying to do task slowly and to remember what i learn. Double side cards is great way to practice. 
+
+**Link(s)**: www.freeCodeCamp.org
