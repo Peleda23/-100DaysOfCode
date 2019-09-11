@@ -12,5 +12,4 @@
 
 **Thoughts:**: Working with basic html and css.
 
-**Link(s)**: www.freeCodeCamp.org 
-
+**Link(s)**: www.freeCodeCamp.org
