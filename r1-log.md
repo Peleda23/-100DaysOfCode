@@ -21,3 +21,11 @@
 **Thoughts:**: Little bit forgot how work sass, try to get back to it. 
 
 **Link(s)**: www.youtube.com  codeSTACKr channel.
+
+## Day 3: september 13, 2019(R1D3)
+
+**Today's Progress**: Still follow youtube video about sass. 
+
+**Thoughts:**: This video is show more then knew before good to learn new stuff. 
+
+**Link(s)**: www.youtube.com  codeSTACKr channel.
