@@ -16,16 +16,25 @@
 
 ## Day 2: september 12, 2019(R1D2)
 
-**Today's Progress**: Preparing for portfolio project, watching about sass. 
+**Today's Progress**: Preparing for portfolio project, watching about sass.
 
-**Thoughts:**: Little bit forgot how work sass, try to get back to it. 
+**Thoughts:**: Little bit forgot how work sass, try to get back to it.
 
 **Link(s)**: www.youtube.com  codeSTACKr channel.
 
 ## Day 3: september 13, 2019(R1D3)
 
-**Today's Progress**: Still follow youtube video about sass. 
+**Today's Progress**: Still follow youtube video about sass.
 
-**Thoughts:**: This video is show more then knew before good to learn new stuff. 
+**Thoughts:**: This video is show more then knew before good to learn new stuff.
+
+**Link(s)**: www.youtube.com  codeSTACKr channel.
+
+## Day 4: september 14, 2019(R1D4)
+
+**Today's Progress**: Finished youtube video about sass.
+
+**Thoughts:**: Very good video, it show lot of good tips and tricks. Many new things to remember.
+I will follow this code as a guide.
 
 **Link(s)**: www.youtube.com  codeSTACKr channel.
