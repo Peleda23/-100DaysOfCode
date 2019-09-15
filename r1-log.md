@@ -28,7 +28,7 @@
 
 **Thoughts:**: This video is show more then knew before good to learn new stuff.
 
-**Link(s)**: www.youtube.com  codeSTACKr channel.
+**Link(s)**: <www.youtube.com>  codeSTACKr channel.
 
 ## Day 4: september 14, 2019(R1D4)
 
@@ -37,4 +37,12 @@
 **Thoughts:**: Very good video, it show lot of good tips and tricks. Many new things to remember.
 I will follow this code as a guide.
 
-**Link(s)**: www.youtube.com  codeSTACKr channel.
+**Link(s)**: <www.youtube.com>  codeSTACKr channel.
+
+## Day 5: september 15, 2019(R1D5)
+
+**Today's Progress**: Started to work on my Portfolio web site.
+
+**Thoughts:**: I didn't code for some time because of my daughter birth. Forgot how to use css. I need to train my css skills. After i finish this project i gonna do some more html and css sites for not to forget how to do them. There is good site like <https://beta.frontendmentor.io> with some good html and css challenges. 
+
+**Link(s)**: <https://beta.frontendmentor.io>
