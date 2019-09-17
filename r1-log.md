@@ -54,3 +54,11 @@ I will follow this code as a guide.
 **Thoughts:**: Still need to remember plenty stuff with css. If you not practice all the time is easy to forget everything quick. Maybe need to start reading <https://css-tricks.com> as more as possible to sharp my css skills
 
 **Link(s)**: <https://www.freecodecamp.org>
+
+## Day 7: september 17, 2019(R1D7)
+
+**Today's Progress**: Worked on javaScript section FCC.
+
+**Thoughts:**: Didn't work a lot today. But did some at work and did some before bed. Feel tired. Good night.
+
+**Link(s)**: <https://www.freecodecamp.org>
