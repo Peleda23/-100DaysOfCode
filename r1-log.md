@@ -62,3 +62,12 @@ I will follow this code as a guide.
 **Thoughts:**: Didn't work a lot today. But did some at work and did some before bed. Feel tired. Good night.
 
 **Link(s)**: <https://www.freecodecamp.org>
+
+## Day 7: september 18, 2019(R1D8)
+
+**Today's Progress**: Moving on javaScript in fcc.
+
+**Thoughts:**: Keep going with exercises.
+
+**Link(s)**: <https://www.freecodecamp.org>
+
