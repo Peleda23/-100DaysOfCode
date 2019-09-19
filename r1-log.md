@@ -71,3 +71,11 @@ I will follow this code as a guide.
 
 **Link(s)**: <https://www.freecodecamp.org>
 
+## Day 8: september 19, 2019(R1D9)
+
+**Today's Progress**: Moving on javaScript in fcc.
+
+**Thoughts:**: Today didn't code a lot. Do some few exercises at work and what it. Not happy at all.
+
+**Link(s)**: <https://www.freecodecamp.org>
+
