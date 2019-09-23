@@ -79,3 +79,11 @@ I will follow this code as a guide.
 
 **Link(s)**: <https://www.freecodecamp.org>
 
+## Day 9: september 23, 2019(R1D9)
+
+**Today's Progress**: Working with javaScript exercises on FCC.
+
+**Thoughts:**: Difficult to work on curriculum after work. Feel to much tired.
+
+**Link(s)**: <https://www.freecodecamp.org>
+
