@@ -87,3 +87,10 @@ I will follow this code as a guide.
 
 **Link(s)**: <https://www.freecodecamp.org>
 
+## Day 10: september 24, 2019(R1D10)
+
+**Today's Progress**: Today moved to ES6 javascript section.
+
+**Thoughts:**: Need to find way how to become more motivated and to have somehow more energy in evening. And don't to give up to early and look for solutions. 
+
+**Link(s)**: <https://www.freecodecamp.org>
