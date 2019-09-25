@@ -91,6 +91,14 @@ I will follow this code as a guide.
 
 **Today's Progress**: Today moved to ES6 javascript section.
 
-**Thoughts:**: Need to find way how to become more motivated and to have somehow more energy in evening. And don't to give up to early and look for solutions. 
+**Thoughts:**: Need to find way how to become more motivated and to have somehow more energy in evening. And don't to give up to early and look for solutions.
 
 **Link(s)**: <https://www.freecodecamp.org>
+
+## Day 11: september 25, 2019(R1D11)
+
+**Today's Progress**: Did some ES6 sections exercises, watched few video about js fundamentals and started planning how to do frontendmentor challenge.
+
+**Thoughts:**: Few days ago found nice website full of javascript tutorials. All teachers are professionals. A bit expensive 39 dollars a month. Googled and found free trial, you can watch three courses for free. Watched few videos and liked. FFC es6 section is pain in the ass. I try to go them to fast and give up to early.
+
+**Link(s)**: <https://frontendmasters.com>
