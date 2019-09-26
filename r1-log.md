@@ -102,3 +102,11 @@ I will follow this code as a guide.
 **Thoughts:**: Few days ago found nice website full of javascript tutorials. All teachers are professionals. A bit expensive 39 dollars a month. Googled and found free trial, you can watch three courses for free. Watched few videos and liked. FFC es6 section is pain in the ass. I try to go them to fast and give up to early.`
 
 **Link(s)**: <https://frontendmasters.com>
+
+## Day 12: september 26, 2019(R1D12)
+
+**Today's Progress**: Today progress is very small, like no progress.
+
+**Thoughts:**: So far i really like frontendmasters website. Kelly very good in explaining stuff. There is good feature links to stuff what he is talking about, like MDN reference. As i finish course will tell more about my experience and maybe gonna buy the monthly subscription.
+
+**Link(s)**: <https://frontendmasters.com>
