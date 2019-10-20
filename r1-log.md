@@ -2,9 +2,9 @@
 
 ## Main goal of this challenge
 
-* To code every day.
-* To learn new stuff.
-* To improve my english writing skill.
+- To code every day.
+- To learn new stuff.
+- To improve my english writing skill.
 
 ## Day 1: september 11, 2019(R1D1)
 
@@ -20,7 +20,7 @@
 
 **Thoughts:**: Little bit forgot how work sass, try to get back to it.
 
-**Link(s)**: <https://www.youtube.com>  codeSTACKr channel.
+**Link(s)**: <https://www.youtube.com> codeSTACKr channel.
 
 ## Day 3: september 13, 2019(R1D3)
 
@@ -28,7 +28,7 @@
 
 **Thoughts:**: This video is show more then knew before good to learn new stuff.
 
-**Link(s)**: <https://www.youtube.com>  codeSTACKr channel.
+**Link(s)**: <https://www.youtube.com> codeSTACKr channel.
 
 ## Day 4: september 14, 2019(R1D4)
 
@@ -37,7 +37,7 @@
 **Thoughts:**: Very good video, it show lot of good tips and tricks. Many new things to remember.
 I will follow this code as a guide.
 
-**Link(s)**: <https://www.youtube.com>  codeSTACKr channel.
+**Link(s)**: <https://www.youtube.com> codeSTACKr channel.
 
 ## Day 5: september 15, 2019(R1D5)
 
@@ -108,5 +108,14 @@ I will follow this code as a guide.
 **Today's Progress**: Today progress is very small, like no progress.
 
 **Thoughts:**: So far i really like frontendmasters website. Kelly very good in explaining stuff. There is good feature links to stuff what he is talking about, like MDN reference. As i finish course will tell more about my experience and maybe gonna buy the monthly subscription.
+
+**Link(s)**: <https://frontendmasters.com>
+
+## Day 1: october 20, 2019(R1D01)
+
+**Today's Progress**: Today watched some videos on frontendmasters and done some challenges in ffc.
+
+**Thoughts:**: Reset all progress in fcc and starting again from new. Try to understand js for real.
+Reset my 100 of code from zero. No more time for games need to push my self more.
 
 **Link(s)**: <https://frontendmasters.com>
