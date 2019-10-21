@@ -119,3 +119,11 @@ I will follow this code as a guide.
 Reset my 100 of code from zero. No more time for games need to push my self more.
 
 **Link(s)**: <https://frontendmasters.com>
+
+## Day 2: october 21, 2019(R1D02)
+
+**Today's Progress**: Done some videos on frontend masters and some freecodecamp.
+
+**Thoughts:**: Now on frontendmasters is a bit hard to follow and understand everything. But as a teacher sad need to keep going and one day i will start to understand. Need to get Js certificate of js till new year thats my main goal for this year. No more games.
+
+**Link(s)**: <https://frontendmasters.com>
