@@ -127,3 +127,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Now on frontendmasters is a bit hard to follow and understand everything. But as a teacher sad need to keep going and one day i will start to understand. Need to get Js certificate of js till new year thats my main goal for this year. No more games.
 
 **Link(s)**: <https://frontendmasters.com>
+
+## Day 3: october 23, 2019(R1D03)
+
+**Today's Progress**: Again watched frontend masters Js series and do some free code camp.
+
+**Thoughts:**: Still don't understand everything what they talking in videos, but some knowledge i am getting. New tip for ffc exercises is if challenge is tricky and difficult to pass. I copy code to vs code and do there. I got Eslint and code runner and much more easier to pass test..
+
+**Link(s)**: <https://frontendmasters.com>
