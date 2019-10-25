@@ -135,3 +135,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Still don't understand everything what they talking in videos, but some knowledge i am getting. New tip for ffc exercises is if challenge is tricky and difficult to pass. I copy code to vs code and do there. I got Eslint and code runner and much more easier to pass test..
 
 **Link(s)**: <https://frontendmasters.com>
+
+# Day 4: october 25, 2019(R1D04)
+
+**Today's Progress**: Plan didn't change follow frontendmasters and doing fcc exercises.
+
+**Thoughts:**: Yesterday didn't code at all fell to much tired. Today done few challenges, one was little tricky, but managed to complete it. First time i felt like i understand that is going on.
+
+**Link(s)**: Nothing new.
