@@ -136,7 +136,7 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Link(s)**: <https://frontendmasters.com>
 
-# Day 4: october 25, 2019(R1D04)
+## Day 4: october 25, 2019(R1D04)
 
 **Today's Progress**: Plan didn't change follow frontendmasters and doing fcc exercises.
 
