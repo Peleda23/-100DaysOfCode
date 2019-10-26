@@ -143,3 +143,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Yesterday didn't code at all fell to much tired. Today done few challenges, one was little tricky, but managed to complete it. First time i felt like i understand that is going on.
 
 **Link(s)**: Nothing new.
+
+## Day 5: october 26, 2019(R1D05)
+
+**Today's Progress**: Finished videos about scopes in FEM(frontendmasters), objects on FCC.
+
+**Thoughts:**: Now i see more clearly whats happening in the code. Two hours left to watch Bianca course. Looking foward for another guys course. Need to get JS certificate from FCC till new year.
+
+**Link(s)**: Nothing new.
