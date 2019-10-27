@@ -148,6 +148,14 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Today's Progress**: Finished videos about scopes in FEM(frontendmasters), objects on FCC.
 
-**Thoughts:**: Now i see more clearly whats happening in the code. Two hours left to watch Bianca course. Looking foward for another guys course. Need to get JS certificate from FCC till new year.
+**Thoughts:**: Now i see more clearly whats happening in the code. Two hours left to watch Bianca course. Looking forward for another guys course. Need to get JS certificate from FCC till new year.
 
 **Link(s)**: Nothing new.
+
+## Day 6: october 27, 2019(R1D06)
+
+**Today's Progress**: Few videos and few exercises.
+
+**Thoughts:**: Today sunday didn't have a lot time for learning. Not happy at all.
+
+**Link(s)**:
