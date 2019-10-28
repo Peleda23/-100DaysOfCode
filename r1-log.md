@@ -159,3 +159,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Today sunday didn't have a lot time for learning. Not happy at all.
 
 **Link(s)**:
+
+## Day 7: october 28, 2019(R1D07)
+
+**Today's Progress**: All most finished Bianca JS course.
+
+**Thoughts:**: Its difficult to find energy to study after work and before sleep.
+
+**Link(s)**:
