@@ -167,3 +167,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Its difficult to find energy to study after work and before sleep.
 
 **Link(s)**:
+
+## Day 8: october 29, 2019(R1D08)
+
+**Today's Progress**: Finished Bianca JS course and started new.
+
+**Thoughts:**: Today is another day and i keep struggling with learning. I need to find more motivation to keep going.
+
+**Link(s)**:
