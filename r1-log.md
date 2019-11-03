@@ -183,3 +183,19 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Sometimes I give up to early. I need to look for answers for longer. And don't stop keep going.
 
 **Link(s)**:
+
+## Day 9: october 31, 2019(R1D10)
+
+**Today's Progress**: Nothing new still on the same path.
+
+**Thoughts:**: javaScript is hard to learn and I think sometimes I am rushing to understand it. Need to calm down and keep going.
+
+**Link(s)**:
+
+## Day 10: november 3, 2019(R1D11)
+
+**Today's Progress**: Frontendmasters and Freecodecamp.
+
+**Thoughts:**: Starting to thing this like my second job, to do it without complains. And keep going and don't stop.
+
+**Link(s)**:
