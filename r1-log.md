@@ -199,3 +199,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:**: Starting to thing this like my second job, to do it without complains. And keep going and don't stop.
 
 **Link(s)**:
+
+## Day 11: november 4, 2019(R1D12)
+
+**Today's Progress**: Regular expressions on fcc and destructive functions on frontendmasters.
+
+**Thoughts:**: Today started regular expression on fcc for now is easy, to many thinks to remember. Managed to find some time to do coding in work. Will Sentance is very good teacher, he know how to explain stuff.
+
+**Link(s)**:
