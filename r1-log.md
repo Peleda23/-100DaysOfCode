@@ -158,15 +158,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:**: Today sunday didn't have a lot time for learning. Not happy at all.
 
-**Link(s)**:
-
 ## Day 7: october 28, 2019(R1D07)
 
 **Today's Progress**: All most finished Bianca JS course.
 
 **Thoughts:**: Its difficult to find energy to study after work and before sleep.
-
-**Link(s)**:
 
 ## Day 8: october 29, 2019(R1D08)
 
@@ -174,15 +170,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:**: Today is another day and i keep struggling with learning. I need to find more motivation to keep going.
 
-**Link(s)**:
-
 ## Day 9: october 30, 2019(R1D09)
 
 **Today's Progress**: Few videos and started es6 section on fcc.
 
 **Thoughts:**: Sometimes I give up to early. I need to look for answers for longer. And don't stop keep going.
-
-**Link(s)**:
 
 ## Day 9: october 31, 2019(R1D10)
 
@@ -190,15 +182,11 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:**: javaScript is hard to learn and I think sometimes I am rushing to understand it. Need to calm down and keep going.
 
-**Link(s)**:
-
 ## Day 10: november 3, 2019(R1D11)
 
 **Today's Progress**: Frontendmasters and Freecodecamp.
 
 **Thoughts:**: Starting to thing this like my second job, to do it without complains. And keep going and don't stop.
-
-**Link(s)**:
 
 ## Day 11: november 4, 2019(R1D12)
 
@@ -206,4 +194,14 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:**: Today started regular expression on fcc for now is easy, to many thinks to remember. Managed to find some time to do coding in work. Will Sentance is very good teacher, he know how to explain stuff.
 
-**Link(s)**:
+## Day 12: november 5, 2019(R1D13)
+
+**Today's Progress**: Regular expressions on fcc and High order functions.
+
+**Thoughts:**: Will explaining how functions is working And he know how to do it. Regular expressions is a bit tricker. Lot of symbols to remember. How they work and were to use.
+
+## Day 13: november 6, 2019(R1D14)
+
+**Today's Progress**: Regular expressions on fcc and Closure.
+
+**Thoughts:**: Not much of coding. Need to find more time for code.
