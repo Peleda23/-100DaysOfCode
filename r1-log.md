@@ -192,7 +192,7 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Today's Progress**: Regular expressions on fcc and destructive functions on frontendmasters.
 
-**Thoughts:**: Today started regular expression on fcc for now is easy, to many thinks to remember. Managed to find some time to do coding in work. Will Sentance is very good teacher, he know how to explain stuff.
+**Thoughts:**: Today started regular expression on fcc for now is easy, to many thinks to remember. Managed to find some time to do coding in work. Will sentance is very good teacher, he know how to explain stuff.
 
 ## Day 12: november 5, 2019(R1D13)
 
@@ -205,3 +205,9 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Today's Progress**: Regular expressions on fcc and Closure.
 
 **Thoughts:**: Not much of coding. Need to find more time for code.
+
+## Day 1: June 23, 2020(R1D1)
+
+**Today's Progress** Mozila front-end web developer learning pathway.
+
+**Thoughts:** Few days ago I decided to come back to coding, I like it, but it's hard to learn. I want to give try again. I found Mozila front-end web developer learning pathway, I will go to this pathway combining with freeCodeCamp. And of course I try to do 100 days of coding, but I leave one day of every week. It's summer and I am father of little princess. Today I done variables and done test, all pass
