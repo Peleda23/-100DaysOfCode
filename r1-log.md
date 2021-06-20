@@ -219,3 +219,6 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 **Thoughts:** Done basic javascript math article with some exercises and all was passed. Done some fcc html section. And started to do beginner friendly html and css project from frontendmentor web page. 
 
 ## Test Day
+
+## Day 1: June 20, 2021(R1D1)
+
