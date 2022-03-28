@@ -170,6 +170,9 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:**: Today is another day and i keep struggling with learning. I need to find more motivation to keep going.
 
+## test
+
+
 ## Day 9: october 30, 2019(R1D09)
 
 **Today's Progress**: Few videos and started es6 section on fcc.
