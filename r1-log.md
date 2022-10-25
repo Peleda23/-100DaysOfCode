@@ -223,5 +223,13 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 ## Test Day
 
-## Day 1: June 20, 2021(R1D1)
+## Day 1: October 25, 2022(R1D1)
+
+**Today's Progress** Finished tic tac toe game.
+
+**Thoughts:** Started new project web scrapping.
+
+
+
+
 
