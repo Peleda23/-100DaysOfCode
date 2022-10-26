@@ -229,6 +229,12 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:** Started new project web scrapping.
 
+## Day 2: October 26, 2022(R1D2)
+
+**Today's Progress** Theory doing.
+
+**Thoughts:** Reading theory and doing practice assignments.
+
 
 
 
