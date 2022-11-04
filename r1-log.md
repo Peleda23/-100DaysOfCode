@@ -235,6 +235,12 @@ Reset my 100 of code from zero. No more time for games need to push my self more
 
 **Thoughts:** Reading theory and doing practice assignments.
 
+## Day 3: November 4, 2022(R1D3)
+
+**Today's Progress** Theory and practice.
+
+**Thoughts:** Been on holiday, hard to come back to the zone. Difficult to find enough time to study. 
+
 
 
 
